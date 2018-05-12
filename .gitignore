@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Qt Related 
+*build*
+*pro.user*

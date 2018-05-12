@@ -11,6 +11,7 @@ Window {
         anchors.fill: parent
         onClicked: {
             console.log(qsTr('Clicked on background. Text: "' + textEdit.text + '"'))
+            console.log("Jenkins Test")
         }
     }
 
